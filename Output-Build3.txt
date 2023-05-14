@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: hotel project, Configuration: Debug Any CPU ------
+1>C:\Users\Momen\documents\visual studio 2015\Projects\hotel project\hotel project\Program.cs(16,22,16,23): warning CS0219: The variable 's' is assigned but its value is never used
+1>C:\Users\Momen\documents\visual studio 2015\Projects\hotel project\hotel project\Program.cs(28,135,28,138): warning CS0219: The variable 'day' is assigned but its value is never used
+1>  hotel project -> C:\Users\Momen\documents\visual studio 2015\Projects\hotel project\hotel project\bin\Debug\hotel project.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
